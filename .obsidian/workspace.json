@@ -4,63 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1bb52fefeb10b835",
+        "id": "e69499d73d7d0a98",
         "type": "tabs",
         "children": [
           {
-            "id": "4a3bae152e012649",
+            "id": "3e35ca41d5ac5dce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "OnThi_CuoiKi/CauHoiVanDap/Câu 47.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "27a4d30c6f3790b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing-Debugging.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Testing-Debugging"
-            }
-          },
-          {
-            "id": "a5a78ac0b13ff68f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing-process.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Testing-process"
-            }
-          },
-          {
-            "id": "5db91862606036f9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Câu 47"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.5
   },
   "right": {
     "id": "dfacb98a6e791be6",
@@ -199,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -207,16 +169,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5db91862606036f9",
+  "active": "0e249d3e88dadc62",
   "lastOpenFiles": [
-    "Dynamic-Static-Testing.md",
-    "Software-testing.md",
-    "README.md",
-    "Verification-validation.md",
-    "Testing-level.md",
-    "Testing-process.md",
-    "Testing-Debugging.md",
-    "Object-of-testing.md",
-    "Testing-type.md"
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 48.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 50.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 62.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 63.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 60.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 58.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 55.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 35.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 33.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 34.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 31.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 30.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 28.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 27.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 26.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 25.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 24.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 23.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 21.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 20.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 19.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 18.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 17.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 15.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 12.md",
+    "OnThi_CuoiKi/CauHoiVanDap/Câu 11.md",
+    "{E6F14A7D-B47F-417B-A3B2-4C6660D5FE37}.png",
+    "{BC594AE7-BA86-4BA2-AF4D-9C58E12076F4}.png",
+    "OnThi_CuoiKi/CauHoiVanDap",
+    "OnThi_CuoiKi/LyThuyet"
   ]
 }
